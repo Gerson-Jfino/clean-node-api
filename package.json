@@ -11,11 +11,6 @@
       "standard"
     ]
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Gerson-Jfino/clean-node-api.git"
@@ -27,7 +22,6 @@
   },
   "homepage": "https://github.com/Gerson-Jfino/clean-node-api#readme",
   "devDependencies": {
-    "husky": "^7.0.4",
     "lint-staged": "^12.3.7",
     "standard": "^16.0.4"
   }
